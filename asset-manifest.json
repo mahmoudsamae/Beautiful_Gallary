@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Beautiful_Gallary/static/css/main.0fcd2c6f.css",
+    "main.js": "/Beautiful_Gallary/static/js/main.5be6c4c1.js",
+    "static/media/hero.jpg": "/Beautiful_Gallary/static/media/hero.e7223410014692289826.jpg",
+    "index.html": "/Beautiful_Gallary/index.html",
+    "main.0fcd2c6f.css.map": "/Beautiful_Gallary/static/css/main.0fcd2c6f.css.map",
+    "main.5be6c4c1.js.map": "/Beautiful_Gallary/static/js/main.5be6c4c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fcd2c6f.css",
+    "static/js/main.5be6c4c1.js"
+  ]
+}
